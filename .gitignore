@@ -40,3 +40,7 @@ wheels/
 
 # Game specific
 *.log
+
+# Sound files (optional - can be regenerated)
+# sounds/*.wav
+# sounds/*.mp3
